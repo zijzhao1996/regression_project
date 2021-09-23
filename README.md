@@ -1,4 +1,4 @@
-# regression_project
+# Regression Project
 
 This is code repo for a regression prediction project. 
 
