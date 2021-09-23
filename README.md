@@ -6,7 +6,8 @@ This is code repo for a regression prediction project.
 
 ```python inference.py '20200123.yx.csv' 'Ridge_y1.pkl' 'Ridge_y2.pkl'```
 
-Arguments: `.csv`: Any unseen data which structure is similar to the training data. (consist of X, Y1 and Y2)
+Arguments: `.csv`: Any unseen data in current folder which structure is similar to the training data. (consist of X, Y1 and Y2)
+           
            `.pkl`: Models that you want to load. You need load pickles file for both Y1 and Y2.
 
 We have trained and uploaded all the models in the `\models` folder. You are free to choose any of those models.
